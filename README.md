@@ -1,1 +1,1 @@
-A pathfinder visualizer
+A pathfinder visualizer.
